@@ -1,3 +1,4 @@
 Creating new file.
 Add a line in local. 
 Add another line in local.
+Add a line in remote. 
